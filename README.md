@@ -1,4 +1,4 @@
-# Google Playstore-EDA Analysis
+# Google Playstore EDA Analysis
 
 **Project Overview:**
 
